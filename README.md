@@ -31,8 +31,6 @@ I specialize in securing complex enterprise infrastructure, from hardening the i
 
 ### 📈 Real-Time Impact
 
-<img src="https://github-readme-stats.vercel.app/api?username=nullze&show_icons=true&theme=tokyonight&hide_border=true" alt="Jacob's GitHub Stats" />
-
 <br><br>
 
 <picture>
