@@ -22,7 +22,7 @@ I specialize in securing complex enterprise infrastructure—from hardening the 
 
 ### 🛠️ Tech Stack & Architecture
 * **Cloud & Infrastructure:** AWS (EC2, S3, GuardDuty, WAF), Kubernetes, Ephemeral Compute
-* **Security & Detection:** Custom ELK SIEM, Splunk Enterprise Security, CrowdStrike, IAM (Okta)
+* **Security & Detection:** Custom ELK SIEM, Splunk Enterprise Security, CrowdStrike, IAM (Okta), Malwarebytes, ThreatDown
 * **Automation & Scripting:** Python, PowerShell, Bash
 
 ---
