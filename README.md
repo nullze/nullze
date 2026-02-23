@@ -41,6 +41,6 @@ I specialize in securing complex enterprise infrastructure—from hardening the 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nullze/nullze/output/github-contribution-grid-snake.svg">
 </picture>
 
-📫 **Reach me at:** jake@cylect.io | [LinkedIn](https://www.linkedin.com/in/jacob-archuleta/)
+📫 **Reach me at:** info@cylect.io | [LinkedIn](https://www.linkedin.com/in/jacob-archuleta/)
 
 </div>
