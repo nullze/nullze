@@ -30,9 +30,6 @@ I specialize in securing complex enterprise infrastructure, from hardening the i
 <div align="center">
 
 ### 📈 Real-Time Impact
-
-<br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nullze/nullze/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nullze/nullze/output/github-contribution-grid-snake.svg">
