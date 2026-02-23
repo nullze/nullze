@@ -8,7 +8,7 @@
 
 <br><br>
 
-I specialize in securing complex enterprise infrastructure—from hardening the internal environments of leading cybersecurity companies to securing critical communications for NASA's Space Network—enabling rapid, secure innovation. When I am not architecting Zero Trust networks or building robust Data Loss Prevention (DLP) frameworks, I am aggressively stress-testing AI models and building scalable threat intelligence platforms.
+I specialize in securing complex enterprise infrastructure, from hardening the internal environments of leading cybersecurity companies to securing critical communications for NASA's Space Network, enabling rapid, secure innovation. When I am not architecting Zero Trust networks or building robust Data Loss Prevention (DLP) frameworks, I am aggressively stress-testing AI models and building scalable threat intelligence platforms.
 
 </div>
 
