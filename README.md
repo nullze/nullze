@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jacob Archuleta, CISSP
+# Jake A, CISSP
 
 <a href="https://cylect.io">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E8B57&center=true&vCenter=true&width=750&lines=Staff+Security+Engineer;Securing+NASA+%26+Cybersecurity+Companies;Vulnerability+Researcher;Founder+%40+Cylect.io;Breaking+AI+Guardrails+At+Scale" alt="Typing SVG" />
