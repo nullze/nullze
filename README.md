@@ -20,7 +20,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nullze/nullze/main/glitch-line.svg" width="800" />
+</p>
 
 ### 🌐 [DECRYPTED_INTEL]
 * **// STATUS:** 🟢 `SYSTEMS_OPTIMAL`
@@ -29,7 +31,6 @@
 * **// TRACK_RECORD:** Hardening NASA Space Networks and securing global Cybersecurity infrastructure.
 * **// REVENUE_GEN:** Founder of Cylect AI; architected an OSINT platform serving 33k+ users.
 
----
 <p align="center">
   <img src="https://raw.githubusercontent.com/nullze/nullze/main/glitch-line.svg" width="800" />
 </p>
@@ -41,7 +42,9 @@
 | **[AI_NODE: Cylect](https://cylect.io/ai)** | Production-scale Ephemeral VM orchestration. | `ACTIVE` |
 | **[DETECTION: AWS/ELK](https://cylect.io/ai)** | Engineered $1M annual savings in cloud defense. | ![Active](https://img.shields.io/badge/-ENFORCING-00F0FF?style=flat-square) |
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nullze/nullze/main/glitch-line.svg" width="800" />
+</p>
 
 ### 📡 [LIVE_ACTIVITY_PULSE]
 <p align="center">
@@ -56,7 +59,9 @@
   </picture>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nullze/nullze/main/glitch-line.svg" width="800" />
+</p>
 
 <p align="center">
   <b>// STATUS: SECURE</b><br>
