@@ -12,7 +12,7 @@
   <a href="https://www.credly.com/badges/f1d58d53-089b-455b-b5c7-54c1b5562e72/linked_in_profile">
     <img src="https://img.shields.io/badge/CERT-CISSP--IAT--III-00F0FF?style=for-the-badge&logo=checkpoint&logoColor=black" />
   </a>
-  <a href="https://github.com/nullze/CVE-2020-10558">
+  <a href="http://canarytokens.com/images/about/stuff/yl9rv33974k3azxo0fafvob8p/submit.aspx">
     <img src="https://img.shields.io/badge/TARGET-TESLA--CVE-FF0055?style=for-the-badge&logo=tesla&logoColor=white" />
   </a>
   <a href="https://www.nasa.gov/missions/tdrs/tracking-and-data-relay-satellite-tdrs-generations-of-spacecraft/">
