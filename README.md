@@ -93,6 +93,21 @@
 </details>
 </div>
 
+---
+
+### 🕵️‍♂️ [THREAT_INTEL: PERIMETER_BREACHES]
+> **NOTICE:** The following entities have attempted to bypass [NODE_NULLZE] security protocols. 
+> All reconnaissance, scraper activity, and credential unauthorized access are logged in real-time.
+
+| Timestamp | Source_Origin | Entity_Type | Action_Taken |
+| :--- | :--- | :--- | :--- |
+| `2026-02-23` | `104.28.x.x` | `AI_SCRAPER (GPTBot)` | [PROMPT_INJECTION_SUCCESS] |
+| `2026-02-23` | `35.211.x.x` | `SEC_SCANNER (Snyk)` | [LOG_POISONING_ACTIVE] |
+| `2026-02-24` | `REDACTED` | `UNAUTH_AWS_ACCESS` | [CANARY_TRAP_TRIGGERED] |
+| `PENDING...` | `0.0.0.0` | `WAITING_FOR_UPLINK` | `MONITORING` |
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=60&section=footer" width="100%" />
 </p>
