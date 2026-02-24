@@ -1,0 +1,51 @@
+<svg width="800" height="160" viewBox="0 0 800 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes decrypt {
+      0% { content: "0x7F!#@$ %^&*() [REDACTED]"; }
+      5% { content: "ΣΥΣΤΕΜ_ΕΡΡΟΡ: 404_VOID"; }
+      10% { content: "⌬ ⏣ ⎔ ⎚ [DECRYPTING...]"; }
+      15% { content: "S-Y-S-T-E-M-S_L-O-A-D-I-N-G"; }
+      20% { content: "// STATUS: 🟢 SYSTEMS_OPTIMAL"; }
+    }
+    
+    @keyframes reveal {
+      0% { opacity: 0; filter: blur(5px); }
+      10% { opacity: 0.5; filter: blur(2px); }
+      100% { opacity: 1; filter: blur(0); }
+    }
+
+    .intel-text {
+      font-family: 'Segoe UI', 'Courier New', monospace;
+      font-size: 14px;
+      fill: #00F0FF;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    .noise::after {
+      content: "// STATUS: 🟢 SYSTEMS_OPTIMAL";
+      animation: decrypt 3s steps(5, end) infinite alternate;
+    }
+
+    .fade-in {
+      animation: reveal 0.4s ease-out forwards;
+      opacity: 0;
+    }
+    
+    .delay-1 { animation-delay: 1.0s; }
+    .delay-2 { animation-delay: 1.2s; }
+    .delay-3 { animation-delay: 1.4s; }
+    .delay-4 { animation-delay: 1.6s; }
+  </style>
+
+  <rect width="800" height="160" fill="#00F0FF" opacity="0.03">
+    <animate attributeName="opacity" values="0.03;0.08;0.03" dur="0.1s" repeatCount="indefinite" />
+  </rect>
+
+  <text x="10" y="30" class="intel-text noise"></text>
+  <text x="10" y="60" class="intel-text fade-in delay-1">// NODE_OPERATIVE: JAKE A</text>
+  <text x="10" y="85" class="intel-text fade-in delay-2">// SECTOR: AI SECURITY &amp; CORPORATE DLP</text>
+  <text x="10" y="110" class="intel-text fade-in delay-3">// TRACK_RECORD: HARDENING NASA SPACE NETWORKS</text>
+  <text x="10" y="135" class="intel-text fade-in delay-4">// REVENUE_GEN: FOUNDER OF CYLECT AI (33K+ USERS)</text>
+</svg>
