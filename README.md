@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CERT-CISSP--IAT--III-00F0FF?style=for-the-badge&logo=checkpoint&logoColor=black" />
-  <img src="https://img.shields.io/badge/TARGET-TESLA--CVE-FF0055?style=for-the-badge&logo=tesla&logoColor=white" />
-  <img src="https://img.shields.io/badge/OPS-NASA--SPACE--NET-00F0FF?style=for-the-badge&logo=nasa&logoColor=white" />
+  <img href="https://www.credly.com/badges/f1d58d53-089b-455b-b5c7-54c1b5562e72/linked_in_profile" src="https://img.shields.io/badge/CERT-CISSP--IAT--III-00F0FF?style=for-the-badge&logo=checkpoint&logoColor=black" />
+  <img href="https://github.com/nullze/CVE-2020-10558" src="https://img.shields.io/badge/TARGET-TESLA--CVE-FF0055?style=for-the-badge&logo=tesla&logoColor=white" />
+  <img href="https://ai.cylect.io" src="https://img.shields.io/badge/OPS-NASA--SPACE--NET-00F0FF?style=for-the-badge&logo=nasa&logoColor=white" />
 </p>
 
 ---
