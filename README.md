@@ -73,6 +73,11 @@
   <img src="https://raw.githubusercontent.com/nullze/nullze/main/glitch-line.svg" width="800" />
 </p>
 
+### 📡 [LIVE_SYSTEM_LOGS]
+<p align="left">
+  <img src="terminal_logs.svg" width="800" />
+</p>
+
 ### 🕵️‍♂️ [THREAT_INTEL: PERIMETER_BREACHES]
 > **NOTICE:** The following entities have attempted to bypass [NODE_NULLZE] security protocols. 
 > All reconnaissance, scraper activity, and credential unauthorized access are logged in real-time.
