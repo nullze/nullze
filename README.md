@@ -34,7 +34,7 @@
 ### 💾 CORE_ARCHIVES
 | Mission | Objective | Status |
 | :--- | :--- | :--- |
-| **[BREACH: CVE-2020-10558](https://github.com/nullze/CVE-2020-10558)** | Discovered fleet-wide Tesla DoS vulnerability. | `DORMANT` |
+| **[BREACH: CVE-2020-10558](https://cylect.io/tesla-report)** | Discovered fleet-wide Tesla DoS vulnerability. | `DORMANT` |
 | **[AI_NODE: Cylect](https://ai.cylect.io)** | Production-scale Ephemeral VM orchestration. | `ACTIVE` |
 | **DETECTION: AWS/ELK** | Engineered $1M annual savings in cloud defense. | `ENFORCING` |
 
