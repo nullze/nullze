@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://cylect.io/ai-linkedin">
+  <a href="https://cylect.io/ai">
     <img src="https://raw.githubusercontent.com/nullze/nullze/main/header.svg" width="800" />
   </a>
 </p>
@@ -15,7 +15,7 @@
   <a href="https://cylect.io/tesla-report">
     <img src="https://img.shields.io/badge/TARGET-TESLA--CVE-FF0055?style=for-the-badge&logo=tesla&logoColor=white" />
   </a>
-  <a href="https://www.nasa.gov/missions/tdrs/tracking-and-data-relay-satellite-tdrs-generations-of-spacecraft/">
+  <a href="https://cylect.io/nasa">
     <img src="https://img.shields.io/badge/OPS-NASA--SPACE--NET-00F0FF?style=for-the-badge&logo=nasa&logoColor=white" />
   </a>
 </p>
@@ -35,7 +35,7 @@
 | Mission | Objective | Status |
 | :--- | :--- | :--- |
 | **[BREACH: CVE-2020-10558](https://cylect.io/tesla-report)** | Discovered fleet-wide Tesla DoS vulnerability. | `DORMANT` |
-| **[AI_NODE: Cylect](https://cylect.io/ai-linkedin)** | Production-scale Ephemeral VM orchestration. | `ACTIVE` |
+| **[AI_NODE: Cylect](https://cylect.io/ai)** | Production-scale Ephemeral VM orchestration. | `ACTIVE` |
 | **DETECTION: AWS/ELK** | Engineered $1M annual savings in cloud defense. | `ENFORCING` |
 
 ---
