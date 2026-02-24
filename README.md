@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ai.cylect.io">
+  <a href="https://cylect.io/ai-linkedin">
     <img src="https://raw.githubusercontent.com/nullze/nullze/main/header.svg" width="800" />
   </a>
 </p>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.credly.com/badges/f1d58d53-089b-455b-b5c7-54c1b5562e72/linked_in_profile">
+  <a href="https://cylect.io/cissp">
     <img src="https://img.shields.io/badge/CERT-CISSP--IAT--III-00F0FF?style=for-the-badge&logo=checkpoint&logoColor=black" />
   </a>
   <a href="https://cylect.io/tesla-report">
@@ -35,7 +35,7 @@
 | Mission | Objective | Status |
 | :--- | :--- | :--- |
 | **[BREACH: CVE-2020-10558](https://cylect.io/tesla-report)** | Discovered fleet-wide Tesla DoS vulnerability. | `DORMANT` |
-| **[AI_NODE: Cylect](https://ai.cylect.io)** | Production-scale Ephemeral VM orchestration. | `ACTIVE` |
+| **[AI_NODE: Cylect](https://cylect.io/ai-linkedin)** | Production-scale Ephemeral VM orchestration. | `ACTIVE` |
 | **DETECTION: AWS/ELK** | Engineered $1M annual savings in cloud defense. | `ENFORCING` |
 
 ---
