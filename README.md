@@ -73,6 +73,11 @@
   <img src="https://raw.githubusercontent.com/nullze/nullze/main/glitch-line.svg" width="800" />
 </p>
 
+### 🗺️ [GLOBAL_THREAT_MAP]
+<p align="center">
+  <img src="threat_map.svg" width="800" alt="Live threat map visualizing automated reconnaissance origins." />
+</p>
+
 ### 📡 [LIVE_SYSTEM_LOGS]
 <p align="left">
   <img src="terminal_logs.svg" width="800" />
