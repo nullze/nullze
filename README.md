@@ -1,4 +1,7 @@
-# <p align="center">>> JAKE A <<</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00F0FF&text=JAKE%20A&height=150&fontSize=100&desc=>>%20STAFF%20SECURITY%20ENGINEER%20<<&descSize=20&descAlignVertical=85&animation=twinkling&fontAlignVertical=45" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=100&lines=STAFF+SECURITY+ENGINEER;[CONNECTION+SECURE];NASA+//+MALWAREBYTES;//+CYLECT+AI+FOUNDER" alt="Typing SVG" />
 </p>
