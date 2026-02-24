@@ -7,38 +7,27 @@
       font-weight: 700;
     }
 
-    @keyframes flicker {
-      0%, 24% { opacity: 0; }
-      25%, 49% { opacity: 1; }
-      50%, 100% { opacity: 0; }
-    }
+    @keyframes stage1 { 0%, 20% { visibility: visible; } 21%, 100% { visibility: hidden; } }
+    @keyframes stage2 { 0%, 20% { visibility: hidden; } 21%, 40% { visibility: visible; } 41%, 100% { visibility: hidden; } }
+    @keyframes stage3 { 0%, 40% { visibility: hidden; } 41%, 100% { visibility: visible; } }
+    @keyframes reveal { 0% { opacity: 0; } 100% { opacity: 1; } }
 
-    @keyframes lock {
-      0%, 74% { opacity: 0; }
-      75%, 100% { opacity: 1; }
-    }
-
-    @keyframes reveal {
-      0% { opacity: 0; }
-      100% { opacity: 1; }
-    }
-
-    .noise-1 { animation: flicker 0.5s steps(1) 0s 3; }
-    .noise-2 { animation: flicker 0.5s steps(1) 0.5s 2; }
-    .status-final { animation: lock 2s forwards; }
+    .noise-1 { animation: stage1 2s infinite; }
+    .noise-2 { animation: stage2 2s infinite; }
+    .status-final { animation: stage3 2s infinite; }
     .fade { animation: reveal 0.5s forwards; opacity: 0; }
   </style>
 
   <rect width="800" height="160" fill="#00F0FF" opacity="0.03" />
 
-  <text x="10" y="30" class="intel-text">
-    <tspan class="noise-1" fill="#FF0055">0x7F!#@$ [REDACTED]</tspan>
-    <tspan class="noise-2" x="10" fill="#FF0055">ΣΥΣΤΕΜ_ΕΡΡΟΡ: 404</tspan>
-    <tspan class="status-final" x="10">// STATUS: 🟢 SYSTEMS_OPTIMAL</tspan>
-  </text>
+  <text x="10" y="30" class="intel-text noise-1" fill="#FF0055">0x7F!#@$ [DECRYPTING...]</text>
+  
+  <text x="10" y="30" class="intel-text noise-2" fill="#FF0055">ΣΥΣΤΕΜ_ΕΡΡΟΡ: 404_RETRY</text>
+  
+  <text x="10" y="30" class="intel-text status-final">// STATUS: 🟢 SYSTEMS_OPTIMAL</text>
 
-  <text x="10" y="60" class="intel-text fade" style="animation-delay: 2.2s">// NODE_OPERATIVE: JAKE A</text>
-  <text x="10" y="85" class="intel-text fade" style="animation-delay: 2.4s">// SECTOR: AI SECURITY &amp; CORPORATE DLP</text>
-  <text x="10" y="110" class="intel-text fade" style="animation-delay: 2.6s">// TRACK_RECORD: HARDENING NASA SPACE NETWORKS</text>
-  <text x="10" y="135" class="intel-text fade" style="animation-delay: 2.8s">// REVENUE_GEN: FOUNDER OF CYLECT AI (33K+ USERS)</text>
+  <text x="10" y="60" class="intel-text fade" style="animation-delay: 1.2s">// NODE_OPERATIVE: JAKE A</text>
+  <text x="10" y="85" class="intel-text fade" style="animation-delay: 1.4s">// SECTOR: AI SECURITY &amp; CORPORATE DLP</text>
+  <text x="10" y="110" class="intel-text fade" style="animation-delay: 1.6s">// TRACK_RECORD: HARDENING NASA SPACE NETWORKS</text>
+  <text x="10" y="135" class="intel-text fade" style="animation-delay: 1.8s">// REVENUE_GEN: FOUNDER OF CYLECT AI (33K+ USERS)</text>
 </svg>
