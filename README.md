@@ -9,14 +9,21 @@
 </p>
 
 <p align="center">
-  <img href="https://www.credly.com/badges/f1d58d53-089b-455b-b5c7-54c1b5562e72/linked_in_profile" src="https://img.shields.io/badge/CERT-CISSP--IAT--III-00F0FF?style=for-the-badge&logo=checkpoint&logoColor=black" />
-  <img href="https://github.com/nullze/CVE-2020-10558" src="https://img.shields.io/badge/TARGET-TESLA--CVE-FF0055?style=for-the-badge&logo=tesla&logoColor=white" />
-  <img href="https://ai.cylect.io" src="https://img.shields.io/badge/OPS-NASA--SPACE--NET-00F0FF?style=for-the-badge&logo=nasa&logoColor=white" />
+  <a href="https://www.credly.com/badges/f1d58d53-089b-455b-b5c7-54c1b5562e72/linked_in_profile">
+    <img src="https://img.shields.io/badge/CERT-CISSP--IAT--III-00F0FF?style=for-the-badge&logo=checkpoint&logoColor=black" />
+  </a>
+  <a href="https://github.com/nullze/CVE-2020-10558">
+    <img src="https://img.shields.io/badge/TARGET-TESLA--CVE-FF0055?style=for-the-badge&logo=tesla&logoColor=white" />
+  </a>
+  <a href="https://ai.cylect.io">
+    <img src="https://img.shields.io/badge/OPS-NASA--SPACE--NET-00F0FF?style=for-the-badge&logo=nasa&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 🌐 [DECRYPTED_INTEL]
+* **// STATUS:** 🟢 `SYSTEMS_OPTIMAL`
 * **// NODE_OPERATIVE:** Jake A
 * **// SECTOR:** AI Security & Corporate Data Loss Prevention (DLP)
 * **// TRACK_RECORD:** Hardening NASA Space Networks and securing global Cybersecurity infrastructure.
@@ -25,11 +32,11 @@
 ---
 
 ### 💾 CORE_ARCHIVES
-| Mission | Objective |
-| :--- | :--- |
-| **[BREACH: CVE-2020-10558](https://github.com/nullze/CVE-2020-10558)** | Discovered fleet-wide Tesla DoS vulnerability. |
-| **[AI_NODE: Cylect](https://ai.cylect.io)** | Production-scale Ephemeral VM orchestration. |
-| **DETECTION: AWS/ELK** | Engineered $1M annual savings in cloud defense. |
+| Mission | Objective | Status |
+| :--- | :--- | :--- |
+| **[BREACH: CVE-2020-10558](https://github.com/nullze/CVE-2020-10558)** | Discovered fleet-wide Tesla DoS vulnerability. | `DORMANT` |
+| **[AI_NODE: Cylect](https://ai.cylect.io)** | Production-scale Ephemeral VM orchestration. | `ACTIVE` |
+| **DETECTION: AWS/ELK** | Engineered $1M annual savings in cloud defense. | `ENFORCING` |
 
 ---
 
@@ -51,7 +58,8 @@
 <p align="center">
   <b>// STATUS: SECURE</b><br>
   <b>// OPERATIVE: JAKE A</b><br>
-  <b>// ARCHIVE_ID: CYLECT-NODE-01</b>
+  <b>// ARCHIVE_ID: CYLECT-NODE-01</b><br>
+  <b>// LAST_UPLINK: 2026-02-23</b>
 </p>
 
 <p align="center">
