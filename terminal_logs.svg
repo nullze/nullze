@@ -1,26 +1,39 @@
-<svg width="800" height="100" viewBox="0 0 800 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="120" viewBox="0 0 800 120" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .log-text {
       font-family: 'Courier New', monospace;
-      font-size: 12px;
+      font-size: 11px;
       fill: #00F0FF;
+      font-weight: bold;
       opacity: 0;
     }
 
-    @keyframes scroll {
-      0% { opacity: 0; transform: translateY(10px); }
-      5%, 95% { opacity: 1; transform: translateY(0); }
-      100% { opacity: 0; transform: translateY(-10px); }
+    @keyframes scroll-up {
+      0%, 10% { opacity: 0; transform: translateY(10px); }
+      15%, 25% { opacity: 1; transform: translateY(0); }
+      30%, 100% { opacity: 0; transform: translateY(-10px); }
     }
 
-    .line-1 { animation: scroll 4s infinite 0s; }
-    .line-2 { animation: scroll 4s infinite 1s; }
-    .line-3 { animation: scroll 4s infinite 2s; }
+    /* Staggering 7 lines over a 14s cycle */
+    .l1 { animation: scroll-up 14s infinite 0s; }
+    .l2 { animation: scroll-up 14s infinite 2s; }
+    .l3 { animation: scroll-up 14s infinite 4s; }
+    .l4 { animation: scroll-up 14s infinite 6s; }
+    .l5 { animation: scroll-up 14s infinite 8s; }
+    .l6 { animation: scroll-up 14s infinite 10s; }
+    .l7 { animation: scroll-up 14s infinite 12s; }
+    
+    .crit { fill: #FF0055; } /* Red for critical hits */
+    .warn { fill: #FFA500; } /* Orange for scans */
   </style>
 
-  <rect width="800" height="100" fill="#000" fill-opacity="0.2" rx="4" />
+  <rect width="800" height="120" fill="#000" fill-opacity="0.3" rx="4" />
   
-  <text x="15" y="30" class="log-text line-1">[INFO] MONITORING_UPLINK: ACTIVE</text>
-  <text x="15" y="55" class="log-text line-2">[WARN] UNAUTH_RECON_DETECTED: Source 54.39.x.x</text>
-  <text x="15" y="80" class="log-text line-3">[CRIT] BAIT_TAKEN: AWS_CREDENTIAL_TRAP_TRIGGERED</text>
+  <text x="15" y="65" class="log-text l1">[INFO] 2026-02-23: GPTBot DETECTED -> [PROMPT_INJECTION_SUCCESS]</text>
+  <text x="15" y="65" class="log-text l2 warn">[WARN] 2026-02-23: Snyk SCANNER -> [LOG_INJECTION_SUCCESS]</text>
+  <text x="15" y="65" class="log-text l3 crit">[CRIT] 2026-02-24: REDACTED -> [UNAUTH_AWS_ACCESS_TRAP_TRIGGERED]</text>
+  <text x="15" y="65" class="log-text l4 crit">[CRIT] 2026-02-24: 104.250.x.x (Boto3) -> [CANARY_CRED_INTERCEPT]</text>
+  <text x="15" y="65" class="log-text l5 warn">[WARN] 2026-02-24: 54.39.x.x (Requests) -> [CREDENTIAL_BAIT_TAKEN]</text>
+  <text x="15" y="65" class="log-text l6 crit">[CRIT] 2026-02-24: 54.39.x.x (OVH) -> [PERSISTENT_RECURSIVE_PROBE]</text>
+  <text x="15" y="65" class="log-text l7">[INFO] 0.0.0.0: WAITING_FOR_UPLINK -> MONITORING...</text>
 </svg>
