@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00F0FF&text=JAKE%20A&height=150&fontSize=100&desc=>>%20STAFF%20SECURITY%20ENGINEER%20<<&descSize=20&descAlignVertical=85&animation=twinkling&fontAlignVertical=45" />
+  <img src="https://raw.githubusercontent.com/nullze/nullze/main/header.svg" width="800" />
 </p>
 
 <p align="center">
