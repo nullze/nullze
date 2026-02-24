@@ -28,9 +28,9 @@
 
 ---
 
-### 📡 SIGNAL_STRENGTH
+### 📡 [LIVE_ACTIVITY_PULSE]
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullze&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nullze&theme=tokyonight&area=true&hide_border=true&bg_color=0d1117&color=00F0FF" width="100%" />
 </p>
 
 ### 🐍 CONTRIBUTION_FLOW (GRID_SNAKE)
