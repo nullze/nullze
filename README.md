@@ -93,7 +93,9 @@
 </details>
 </div>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nullze/nullze/main/glitch-line.svg" width="800" />
+</p>
 
 ### 🕵️‍♂️ [THREAT_INTEL: PERIMETER_BREACHES]
 > **NOTICE:** The following entities have attempted to bypass [NODE_NULLZE] security protocols. 
@@ -106,7 +108,9 @@
 | `2026-02-24` | `REDACTED` | `UNAUTH_AWS_ACCESS` | [CANARY_TRAP_TRIGGERED] |
 | `PENDING...` | `0.0.0.0` | `WAITING_FOR_UPLINK` | `MONITORING` |
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nullze/nullze/main/glitch-line.svg" width="800" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=60&section=footer" width="100%" />
