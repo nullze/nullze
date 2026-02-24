@@ -82,10 +82,11 @@
 
 | Timestamp | Source_Origin | Entity_Type | Action_Taken |
 | :--- | :--- | :--- | :--- |
-| `2026-02-23` | `104.28.x.x` | `AI_SCRAPER (GPTBot)` | [PROMPT_INJECTION_SUCCESS] |
-| `2026-02-23` | `35.211.x.x` | `SEC_SCANNER (Snyk)` | [LOG_POISONING_ACTIVE] |
-| `2026-02-24` | `REDACTED` | `UNAUTH_AWS_ACCESS` | [CANARY_TRAP_TRIGGERED] |
+| `2026-02-23` | `104.28.x.x` | `AI_SCRAPER (GPTBot)` | `[PROMPT_INJECTION_SUCCESS]` |
+| `2026-02-23` | `35.211.x.x` | `SEC_SCANNER (Snyk)` | `[LOG_INJECTION_SUCCESS]` |
+| `2026-02-24` | `REDACTED` | `UNAUTH_AWS_ACCESS` | `[CANARY_CRED_INTERCEPT]` |
 | `2026-02-24` | `104.250.x.x` | `AWS_SDK_BOT (Boto3)` | `[CANARY_CRED_INTERCEPT]` |
+| `2026-02-24` | `54.39.x.x`   | `CUSTOM_SCRAPER (Requests)` | `[CREDENTIAL_BAIT_TAKEN]` |
 | `PENDING...` | `0.0.0.0` | `WAITING_FOR_UPLINK` | `MONITORING` |
 
 <p align="center">
