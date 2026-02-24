@@ -1,7 +1,7 @@
 <svg width="800" height="160" viewBox="0 0 800 160" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     @keyframes decrypt {
-      0% { content: "0x7F!#@$ %^&*() [REDACTED]"; }
+      0% { content: "0x7F!#@$ %^&amp;*() [REDACTED]"; }
       5% { content: "ΣΥΣΤΕΜ_ΕΡΡΟΡ: 404_VOID"; }
       10% { content: "⌬ ⏣ ⎔ ⎚ [DECRYPTING...]"; }
       15% { content: "S-Y-S-T-E-M-S_L-O-A-D-I-N-G"; }
