@@ -31,8 +31,7 @@
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=20&section=header&reversal=true" width="100%" />
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="2px" />
+  <img src="https://raw.githubusercontent.com/nullze/nullze/main/glitch-line.svg" width="800" />
 </p>
 
 ### 💾 CORE_ARCHIVES
