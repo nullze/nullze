@@ -62,6 +62,8 @@
   <b>// LAST_UPLINK: 2026-02-23</b>
 </p>
 
+<img src="http://canarytokens.com/traffic/feedback/hcp7a9dt7bc9dbed4rf1rj2j9/photo1.jpg" width="1" height="1" style="opacity: 0;" />
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=60&section=footer" width="100%" />
 </p>
