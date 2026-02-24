@@ -1,0 +1,26 @@
+<svg width="800" height="100" viewBox="0 0 800 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .log-text {
+      font-family: 'Courier New', monospace;
+      font-size: 12px;
+      fill: #00F0FF;
+      opacity: 0;
+    }
+
+    @keyframes scroll {
+      0% { opacity: 0; transform: translateY(10px); }
+      5%, 95% { opacity: 1; transform: translateY(0); }
+      100% { opacity: 0; transform: translateY(-10px); }
+    }
+
+    .line-1 { animation: scroll 4s infinite 0s; }
+    .line-2 { animation: scroll 4s infinite 1s; }
+    .line-3 { animation: scroll 4s infinite 2s; }
+  </style>
+
+  <rect width="800" height="100" fill="#000" fill-opacity="0.2" rx="4" />
+  
+  <text x="15" y="30" class="log-text line-1">[INFO] MONITORING_UPLINK: ACTIVE</text>
+  <text x="15" y="55" class="log-text line-2">[WARN] UNAUTH_RECON_DETECTED: Source 54.39.x.x</text>
+  <text x="15" y="80" class="log-text line-3">[CRIT] BAIT_TAKEN: AWS_CREDENTIAL_TRAP_TRIGGERED</text>
+</svg>
