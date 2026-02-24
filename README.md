@@ -31,23 +31,8 @@
 
 ---
 <p align="center">
-  <svg width="800" height="20" viewBox="0 0 800 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect width="800" height="1" fill="#00F0FF" opacity="0.3">
-      <animate attributeName="opacity" values="0.3;1;0.3;0.7;0.3" dur="2s" repeatCount="indefinite" />
-    </rect>
-    <rect x="0" y="0" width="2" height="1" fill="#FF0055">
-      <animate attributeName="x" values="0;800;0" dur="3s" repeatCount="indefinite" />
-      <animate attributeName="width" values="2;50;2;100;2" dur="0.2s" repeatCount="indefinite" />
-    </rect>
-    <rect x="100" y="0" width="1" height="5" fill="#00F0FF">
-      <animate attributeName="x" values="100;120;100;400;100" dur="5s" repeatCount="indefinite" />
-      <animate attributeName="height" values="1;15;1" dur="0.1s" repeatCount="indefinite" />
-    </rect>
-    <rect x="600" y="0" width="1" height="5" fill="#FF0055">
-      <animate attributeName="x" values="600;580;600;200;600" dur="4s" repeatCount="indefinite" />
-      <animate attributeName="height" values="1;10;1" dur="0.15s" repeatCount="indefinite" />
-    </rect>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=20&section=header&reversal=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="2px" />
 </p>
 
 ### 💾 CORE_ARCHIVES
