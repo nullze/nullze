@@ -1,0 +1,17 @@
+<svg width="800" height="2" viewBox="0 0 800 2" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes glitch {
+      0% { transform: translateX(0); opacity: 1; }
+      20% { transform: translateX(-20px); opacity: 0.5; }
+      40% { transform: translateX(20px); opacity: 0.8; }
+      60% { transform: translateX(-10px); opacity: 0.3; }
+      80% { transform: translateX(10px); opacity: 0.9; }
+      100% { transform: translateX(0); opacity: 1; }
+    }
+    .line {
+      animation: glitch 0.2s infinite;
+      fill: #00F0FF;
+    }
+  </style>
+  <rect class="line" width="800" height="2" />
+</svg>
