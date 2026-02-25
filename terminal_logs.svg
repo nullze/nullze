@@ -35,5 +35,6 @@
   <text x="15" y="65" class="log-text l4 crit">[CRIT] 2026-02-24: 104.250.x.x (Boto3) -> [CANARY_CRED_INTERCEPT]</text>
   <text x="15" y="65" class="log-text l5 warn">[WARN] 2026-02-24: 54.39.x.x (Requests) -> [CREDENTIAL_BAIT_TAKEN]</text>
   <text x="15" y="65" class="log-text l6 crit">[CRIT] 2026-02-24: 54.39.x.x (OVH) -> [PERSISTENT_RECURSIVE_PROBE]</text>
+  <text x="15" y="65" class="log-text l6 crit">[CRIT] 2026-02-24: 54.212.x.x (OVH) -> [AWS_CRED_PROBE]</text>
   <text x="15" y="65" class="log-text l7">[INFO] 0.0.0.0: WAITING_FOR_UPLINK -> MONITORING...</text>
 </svg>
