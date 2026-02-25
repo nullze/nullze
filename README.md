@@ -96,7 +96,7 @@
 | `2026-02-24` | `54.39.x.x`   | `CUSTOM_SCRAPER (Requests)` | `[CREDENTIAL_BAIT_TAKEN]` |
 | `2026-02-24` | `54.39.x.x`   | `PERSISTENT_BOT (OVH)`      | `[RECURSIVE_PROBE_DETECTED]` |
 | `2026-02-25` | `54.212.x.x`   | `AWS_CRED_BOT (OVH)`      | `[AWS_CRED_PROBE]` |
-| `2026-02-26` | `34.145.x.x`   | `WEB_SCRAPER (Colly)`      | `[WEB_SCRAPER_DETECTED]` |
+| `2026-02-25` | `34.145.x.x`   | `WEB_SCRAPER (Colly)`      | `[WEB_SCRAPER_DETECTED]` |
 | `PENDING...` | `0.0.0.0` | `WAITING_FOR_UPLINK` | `MONITORING` |
 
 <p align="center">
