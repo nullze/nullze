@@ -98,6 +98,10 @@
 | `2026-02-25` | `54.212.x.x`   | `AWS_CRED_BOT (OVH)`      | `[AWS_CRED_PROBE]` |
 | `2026-02-25` | `34.145.x.x`   | `WEB_SCRAPER (Colly)`      | `[WEB_SCRAPER_DETECTED]` |
 | `2026-02-26` | `103.212.x.x`   | `SEC_SCANNER (TruffleHog)`      | `[CANARY_CRED_SCAN]` |
+| `2026-02-27` | `47.128.x.x`   | `SEC_SCANNER (Bytespyder)`      | `[BYTESPYDER_SCAN]` |
+| `2026-02-28` | `54.212.x.x`   | `AWS_CRED_BOT (OVH)`      | `[AWS_CRED_PROBE]` |
+| `2026-03-01` | `35.83.x.x`   | `AWS_CRED_BOT (OVH)`      | `[AWS_CRED_PROBE]` |
+| `2026-03-02` | `217.113.x.x`   | `AWS_CRED_BOT (Barkrowler)`      | `[BARKWROWLER_PROBE]` |
 | `PENDING...` | `0.0.0.0` | `WAITING_FOR_UPLINK` | `MONITORING` |
 
 <p align="center">
