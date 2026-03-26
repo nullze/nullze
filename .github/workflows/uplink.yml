@@ -2,25 +2,31 @@ name: "[ORBITAL-UPLINK-SYNC]"
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Runs every 6 hours
-  workflow_dispatch: # Allows manual trigger
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+env:
+  # Opt-in to Node 24 now to clear deprecation warnings
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
+      - name: "[PULL]: Checkout Repo"
+        uses: actions/checkout@v5 # Check if v5 is out, otherwise v4 is fine with the env flag
+        
+      - name: "[INIT]: Setup Python"
+        uses: actions/setup-python@v5 # Use v5 for native Node 24 support
         with:
-          python-version: '3.x'
+          python-version: '3.12'
 
-      - name: Execute Uplink Script
+      - name: "[EXEC]: Execute Uplink Script"
         run: python update_readme.py
 
-      - name: Commit and Push Changes
+      - name: "[PUSH]: Commit and Push Changes"
         run: |
           git config --global user.name "TERMINAL-BOT"
           git config --global user.email "bot@cylect.io"
