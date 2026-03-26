@@ -1,0 +1,29 @@
+name: "[ORBITAL-UPLINK-SYNC]"
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Execute Uplink Script
+        run: python update_readme.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "TERMINAL-BOT"
+          git config --global user.email "bot@cylect.io"
+          git add README.md
+          git commit -m "[SYSTEM]: Uplink Synchronized. Logs Rotated." || exit 0
+          git push
