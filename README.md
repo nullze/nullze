@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=100&lines=STAFF+SECURITY+ENGINEER;[CONNECTION+SECURE];NASA+//+MALWAREBYTES;//+CYLECT+AI+FOUNDER" alt="Typing SVG" />
 </p>
 
-<p align="center ">
+<p align="center">
   <a href="https://cylect.io/cissp">
     <img src="https://img.shields.io/badge/CERT-CISSP--IAT--III-00F0FF?style=for-the-badge&logo=checkpoint&logoColor=black" />
   </a>
