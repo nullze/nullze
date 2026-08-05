@@ -58,11 +58,6 @@
   <img src="https://raw.githubusercontent.com/nullze/nullze/main/glitch-line.svg" width="800" />
 </p>
 
-### 📡 [LIVE_ACTIVITY_PULSE]
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nullze&theme=tokyonight&area=true&hide_border=true&bg_color=0d1117&color=00F0FF" width="100%" />
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/nullze/nullze/main/glitch-line.svg" width="800" />
 </p>
